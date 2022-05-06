@@ -5,6 +5,6 @@ extract the zip and drop the mario folders inside to your repo (if you use dynos
 # Developer
 Olaia64#1043
 # Program i used to make this mod
-Blemder
+Blender
 # Addons
 Fast64
