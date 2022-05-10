@@ -5,5 +5,5 @@ Install sm64pcbuilder2 from here: https://sm64pc.info/sm64pcbuilder2/, download 
 # Developer
 Olaia64#1043
 # Programs
-sm64pcbuilder2
+sm64pcbuilder2 
 msys64
