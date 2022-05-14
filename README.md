@@ -7,7 +7,7 @@ Olaia64#1043
 # Programs
 sm64pcbuilder2 
 msys64
-# Screenshots (by guycappy) 
-![](images/olaia.png)
-![](images/diego.png)
+# Screenshots
+![](images/olaia.png) ![](images/diego.png)
+![](images/alex.png) ![](images/wisam.png) ![](images/emerald.png) ![](images/washiton.png)
 
