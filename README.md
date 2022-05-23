@@ -6,9 +6,9 @@ Install tools from tools folder, download the sm64ex-coop-coop repo, extract the
 JustOlaia#1043
 # Credits
 CJRed for the skin swapper mod where i created this mod and Hatkid mod for the old moveset (and for the almost released glitchy olaiaworld)
+# Whats new?
+23/05/2022: added incompatible tag
 
 # Screenshots
 ![](images/olaia.png) ![](images/diego.png)
 ![](images/alex.png) ![](images/wisam.png) ![](images/emerald.png) ![](images/washiton.png)
-# Whats new?
-23/05/2022: added incompatible tag
