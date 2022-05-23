@@ -9,6 +9,6 @@ CJRed por el mod skin swapper donde cree el mod y el mod Hatkid por el antiguo m
 # Que es nuevo?
 23/05/2022: incompatible tag añadido
 
-# Screenshots
+# Capturas
 ![](images/olaia.png) ![](images/diego.png)
 ![](images/alex.png) ![](images/wisam.png) ![](images/emerald.png) ![](images/washiton.png)
