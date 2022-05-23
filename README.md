@@ -5,7 +5,7 @@ Install tools from tools folder, download the sm64ex-coop-coop repo, extract the
 # Developer
 JustOlaia#1043
 # Credits
-CJRed for the skin swapper mod where i created this mod and Hatkid mod for the old moveset (and for the almost released glitchy olaiaworld)
+CJRed for the skin swapper mod where i created this mod and Hatkid mod for the old moveset (and for the almost released glitchy olaiaworld), Altiami for the star heal mod used in olaiaworld v5
 # Whats new?
 23/05/2022: added incompatible tag, 23/05/2022: Created "README_es_ES.md" as a spanish translation
 
