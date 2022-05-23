@@ -10,4 +10,5 @@ CJRed for the skin swapper mod where i created this mod and Hatkid mod for the o
 # Screenshots
 ![](images/olaia.png) ![](images/diego.png)
 ![](images/alex.png) ![](images/wisam.png) ![](images/emerald.png) ![](images/washiton.png)
-
+# Whats new?
+23/05/2022: added incompatible tag
