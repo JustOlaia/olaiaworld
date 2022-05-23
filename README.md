@@ -7,8 +7,7 @@ JustOlaia#1043
 # Credits
 CJRed for the skin swapper mod where i created this mod and Hatkid mod for the old moveset (and for the almost released glitchy olaiaworld)
 # Whats new?
-23/05/2022: added incompatible tag
-23/05/2022: Created "README_es_ES.md" as a spanish translation
+23/05/2022: added incompatible tag, 23/05/2022: Created "README_es_ES.md" as a spanish translation
 
 # Screenshots
 ![](images/olaia.png) ![](images/diego.png)
