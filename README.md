@@ -7,8 +7,7 @@ JustOlaia#1043
 # Credits
 CJRed for the skin swapper mod where i created this mod and Hatkid mod for the old moveset (and for the almost released glitchy olaiaworld), Altiami for the star heal mod used in olaiaworld v5
 # Whats new?
-23/05/2022: added incompatible tag, 23/05/2022: Created "README_es_ES.md" as a spanish translation
-
+23/05/2022: added incompatible tag, 23/05/2022: Created "README_es_ES.md" as a spanish translation, 26/05/2022 Added zax as a character due to a request he made
 # Screenshots
 ![](images/olaia.png) ![](images/diego.png)
 ![](images/alex.png) ![](images/wisam.png) ![](images/emerald.png) ![](images/washiton.png)
