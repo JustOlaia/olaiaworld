@@ -14,6 +14,7 @@ CJRed for the skin swapper mod where i created this mod and Hatkid mod for the o
 ```sh
 23/05/2022: added incompatible tag, 23/05/2022: Created "README_es_ES.md" as a spanish translation, 26/05/2022 Added zax as a character due to a request he made
 ```
-# Screenshots
-![](images/olaia.png) ![](images/diego.png)
-![](images/alex.png) ![](images/wisam.png) ![](images/emerald.png) ![](images/washiton.png)
+# Social media
+[JustOlaia](https://www.youtube.com/channel/UCjzGDyLB_OSVZaRwDDCMaSw)
+
+[@OlaiaThebest](https://twitter.com/OlaiaThebest)
