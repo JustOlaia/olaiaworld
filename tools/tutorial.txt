@@ -1,1 +1,0 @@
-just open the bat files and you should see the sm64pcbuilder2/msys2 web site.
