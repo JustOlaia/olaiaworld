@@ -2,7 +2,7 @@
 a mod for sm64ex-coop-coop!, enjoy.
 # How to install
 ```sh
-Install tools from tools folder, download the sm64ex-coop-coop repo, extract the zip and drop the folder "olaiaworld" in sm64ex-coop-coop/mods (if you want to use the mod with a compiled version then drop the folder in sm64ex-coop-coop/build/us_pc/mods, and the other thing to do is optional), compile with external data then done!
+Install sm64pcbuilder2 and msys2 from here: https://github.com/msys2/msys2-installer/releases, https://sm64pc.info/sm64pcbuilder2/, download the sm64ex-coop-coop repo, extract the zip and drop the folder "olaiaworld" in sm64ex-coop-coop/mods (if you want to use the mod with a compiled version then drop the folder in sm64ex-coop-coop/build/us_pc/mods, and the other thing to do is optional), compile with external data then done!
 ```
 # Developer
 JustOlaia#1043
